@@ -1,0 +1,18 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.card-wrapper
+{
+    width: 280px;
+    margin: 0 10px;
+}
+
+.card-image
+{
+    width:150px;margin: 0 auto;
+}
